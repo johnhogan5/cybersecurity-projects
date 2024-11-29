@@ -1,0 +1,3 @@
+192.168.1.5    # Example blocked device
+10.0.0.4       # Another malicious IP
+172.16.0.99    # Blocked IP in private network

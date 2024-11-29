@@ -1,0 +1,3 @@
+127.0.0.1    # Loopback (local machine)
+192.168.1.1  # Router
+192.168.1.98 # Your trusted device
